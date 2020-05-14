@@ -1,2 +1,3 @@
 # NeuralNetworks
-deep learning hands on 
+---
+- Build a neural network from scratch in python, understanding the basic principles 
